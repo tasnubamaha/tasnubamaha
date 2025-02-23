@@ -1,16 +1,16 @@
-## Hi there 👋
+ Hi, I'am Tasnuba 🐼
 
-<!--
-**tasnubamaha/tasnubamaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me: 
+• Passionate front-end developer with a keen eye for detail, creating visually appealing and user-friendly web experiences.
+• Enthusiastic about learning new technologies and bringing creative ideas to life through code.
 
-Here are some ideas to get you started:
+Skills:
+• Languages: Python, C, C++, Java, Dart
+• Web Development: HTML5, CSS5, Bootstrap, React.js, PHP & Laravel
+• Mobile App Development: Flutter (beginner)
+• Technologies: Firebase
+• Version Control: Git, GitHub
+• Database: MongoDB, MySQL
+• Soft Skills: Communication, Time management, Teamwork and Collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
